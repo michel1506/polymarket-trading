@@ -1,4 +1,4 @@
-web3
+web3==5.27.0
 importlib_resources
 eth_account
 requests
